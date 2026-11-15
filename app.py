@@ -1,0 +1,2 @@
+scores = [4, 5, 3, 5]
+print(f"Оценки: {scores}")
